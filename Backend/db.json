@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "admin@futebol.com",
+      "password": "123456"
+    }
+  ],
+  "jogadores": [
+    {
+      "id": "1",
+      "nome": "Carlos Silva",
+      "posicao": "Goleiro",
+      "camisa": 1,
+      "time": "Flamengo",
+      "status": "Titular"
+    },
+    {
+      "id": "2",
+      "nome": "João Souza",
+      "posicao": "Zagueiro",
+      "camisa": 4,
+      "time": "Flamengo",
+      "status": "Titular"
+    },
+    {
+      "id": "3",
+      "nome": "Pedro Lima",
+      "posicao": "Atacante",
+      "camisa": 9,
+      "time": "Palmeiras",
+      "status": "Reserva"
+    },
+    {
+      "nome": "LUIGI",
+      "posicao": "Goleiro",
+      "camisa": 17,
+      "time": "Palmeiras",
+      "status": "Reserva",
+      "id": "oEE1p_s"
+    },
+    {
+      "nome": "kayan",
+      "posicao": "Lateral Esquerdo",
+      "camisa": 25,
+      "time": "São Paulo",
+      "status": "Reserva",
+      "id": "lmiPyBM"
+    }
+  ]
+}
